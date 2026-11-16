@@ -1,7 +1,7 @@
 # sealion-ui
+[Link to demo page](https://sealion.kitan.moe/)
 
-SolidJS component library and design system.
-Flat components, one stylesheet, custom fonts.
+UI Component Library for SolidJS, taking design inspiration from MacOS Mountain Lion.
 
 ## Use
 
