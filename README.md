@@ -1,7 +1,7 @@
 # sealion-ui
 [Link to demo page](https://sealion.kitan.moe/)
 
-UI Component Library for SolidJS, taking design inspiration from MacOS Mountain Lion.
+UI Component Library for SolidJS, taking design inspiration from MacOS Mountain Lion. Components are made mainly for dashboards, config panels, and tables of data.
 
 <div align="center">
 
