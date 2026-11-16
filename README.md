@@ -14,4 +14,12 @@ import "@sealion/ui/sealion.css";
 import { Tabs } from "@sealion/ui";
 ```
 
+<div align="center">
+
+![sealion components](docs/sealion_1.png)
+
+![sealion screenshot](docs/sealion_2.png)
+
+</div>
+
 Peer dep: `solid-js` ^1.9. Icons come from `lucide-solid`.
